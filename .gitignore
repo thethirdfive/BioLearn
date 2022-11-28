@@ -1,6 +1,9 @@
 /E_coli.txt
 /venv
+<<<<<<< HEAD
 update.sh
+=======
+>>>>>>> d06b5ec37f76fbe34641594108ec71b3efbe0a86
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
